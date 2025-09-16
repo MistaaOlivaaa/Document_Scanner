@@ -34,7 +34,7 @@ A professional Python project for scanning and processing documents and images. 
 Run the main script to scan and process a document:
 
 ```bash
-python demo_scanner.py --input /path/to/image.jpg --output ./output/
+python demo_scanner.py image.jpg
 ```
 
 - `--input`: Path to the input image or document
@@ -43,7 +43,7 @@ python demo_scanner.py --input /path/to/image.jpg --output ./output/
 ### Example
 
 ```bash
-python demo_scanner.py sample.jpg 
+python demo_scanner.py image.jpg 
 ```
 
 The processed document will be saved in the `output/` directory.
