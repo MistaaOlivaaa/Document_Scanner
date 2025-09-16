@@ -2,6 +2,11 @@
 
 A professional Python project for scanning and processing documents and images. This tool allows you to easily scan, enhance, and extract content from images or PDF files, making it ideal for digitizing paperwork, receipts, and other documents.
 
+
+https://github.com/user-attachments/assets/d9ed0dcc-d5b6-405e-bad2-9981cdba952c
+
+
+
 ## Features
 
 - Scan and process images or documents
