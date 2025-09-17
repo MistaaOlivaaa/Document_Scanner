@@ -25,7 +25,7 @@ https://github.com/user-attachments/assets/d9ed0dcc-d5b6-405e-bad2-9981cdba952c
 1. Clone the repository:
    ```bash
    git clone https://github.com/MistaaOlivaaa/Document_Scanner.git
-   cd excel
+   cd Document_Scanner
    ```
 2. Install dependencies:
    ```bash
