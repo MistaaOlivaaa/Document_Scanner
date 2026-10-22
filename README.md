@@ -39,6 +39,7 @@ https://github.com/user-attachments/assets/d9ed0dcc-d5b6-405e-bad2-9981cdba952c
 Run the main script to scan and process a document:
 
 ```bash
+cd src/
 python demo_scanner.py image.jpg
 ```
 
@@ -48,6 +49,8 @@ python demo_scanner.py image.jpg
 ### Example
 
 ```bash
+cd src/
+
 python demo_scanner.py image.jpg 
 ```
 
