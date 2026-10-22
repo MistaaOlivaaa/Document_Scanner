@@ -31,7 +31,7 @@ class DocumentScanner:
         return self.original_image
     
     def detect_document_edges(self, image=None):
-        """Detect document edges using contour detection"""
+        
         if image is None:
             image = self.original_image
         
